@@ -1,0 +1,20 @@
+.navbar-nav ml-auto {
+    background-color: #00FFFF;
+    color: white;
+}
+
+#SpaceShip {
+    margin-top: auto;
+    padding-top: 36px;
+    padding-right: 36px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+footer {
+    width: 100%;
+}
